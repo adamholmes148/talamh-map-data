@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Talamh Samples</name>
+<Placemark>
+<name>28</name>
+<description><![CDATA[<b>Sample:</b> 28<br/><b>Date:</b> 2025-08-10<br/><b>Time:</b> 12:28<br/><b>Pressure (kPa):</b> 997.16<br/><b>Moisture (%):</b> 89.8<br/><b>Temperature (°C):</b> 22.26]]></description>
+<ExtendedData>
+<Data name="Sample"><value>28</value></Data>
+<Data name="Date"><value>2025-08-10</value></Data>
+<Data name="Time"><value>12:28</value></Data>
+<Data name="Pressure (kPa)"><value>997.16</value></Data>
+<Data name="Moisture (%)"><value>89.8</value></Data>
+<Data name="Temperature (C)"><value>22.26</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-7.383278511532847,52.575390231301924,72.97955703735352</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>29</name>
+<description><![CDATA[<b>Sample:</b> 29<br/><b>Date:</b> 2025-08-10<br/><b>Time:</b> 12:31<br/><b>Pressure (kPa):</b> 998.7<br/><b>Moisture (%):</b> 88.2<br/><b>Temperature (°C):</b> 21.1]]></description>
+<ExtendedData>
+<Data name="Sample"><value>29</value></Data>
+<Data name="Date"><value>2025-08-10</value></Data>
+<Data name="Time"><value>12:31</value></Data>
+<Data name="Pressure (kPa)"><value>998.7</value></Data>
+<Data name="Moisture (%)"><value>88.2</value></Data>
+<Data name="Temperature (C)"><value>21.1</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-7.3834546640954715,52.57532949026885,72.97049331665039</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>30</name>
+<description><![CDATA[<b>Sample:</b> 30<br/><b>Date:</b> 2025-08-10<br/><b>Time:</b> 12:33<br/><b>Pressure (kPa):</b> 998.7<br/><b>Moisture (%):</b> 86.2<br/><b>Temperature (°C):</b> 21.29]]></description>
+<ExtendedData>
+<Data name="Sample"><value>30</value></Data>
+<Data name="Date"><value>2025-08-10</value></Data>
+<Data name="Time"><value>12:33</value></Data>
+<Data name="Pressure (kPa)"><value>998.7</value></Data>
+<Data name="Moisture (%)"><value>86.2</value></Data>
+<Data name="Temperature (C)"><value>21.29</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>-7.383837051360158,52.575767739803744,86.62079666137697</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
