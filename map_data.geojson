@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.383278511532847,
+          52.575390231301924
+        ]
+      },
+      "properties": {
+        "Sample": "28",
+        "Date": "2025-08-10",
+        "Time": "12:28",
+        "Pressure": 997.16,
+        "Moisture": 89.804,
+        "Temperature": 22.256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3834546640954715,
+          52.57532949026885
+        ]
+      },
+      "properties": {
+        "Sample": "29",
+        "Date": "2025-08-10",
+        "Time": "12:31",
+        "Pressure": 998.7,
+        "Moisture": 88.2,
+        "Temperature": 21.104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.383837051360158,
+          52.575767739803744
+        ]
+      },
+      "properties": {
+        "Sample": "30",
+        "Date": "2025-08-10",
+        "Time": "12:33",
+        "Pressure": 998.7,
+        "Moisture": 86.19500000000001,
+        "Temperature": 21.293
+      }
+    }
+  ]
+}
