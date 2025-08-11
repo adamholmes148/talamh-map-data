@@ -15,8 +15,8 @@
         "Date": "2025-08-10",
         "Time": "12:28",
         "Pressure": 997.16,
-        "Moisture": 89.804,
-        "Temperature": 22.256
+        "Moisture": 89.8,
+        "Temperature": 22.26
       }
     },
     {
@@ -34,7 +34,7 @@
         "Time": "12:31",
         "Pressure": 998.7,
         "Moisture": 88.2,
-        "Temperature": 21.104
+        "Temperature": 21.1
       }
     },
     {
@@ -51,8 +51,8 @@
         "Date": "2025-08-10",
         "Time": "12:33",
         "Pressure": 998.7,
-        "Moisture": 86.19500000000001,
-        "Temperature": 21.293
+        "Moisture": 86.2,
+        "Temperature": 21.29
       }
     }
   ]
